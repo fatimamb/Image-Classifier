@@ -39,8 +39,8 @@ The project has divided into two part:
 - Classifier Project.ipynb
 2. convert it into an application by used Python scripts that run from the command line.
 - there are 3 files:
-   1. predict : uses a trained network to predict the class for an input image.
-   2. train : train a new network on a dataset and save the model as a checkpoint.
+   1. train : train a new network on a dataset and save the model as a checkpoint.
+   2. predict : uses a trained network to predict the class for an input image.
    3. pros : contains the functions.
 
 
