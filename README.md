@@ -12,9 +12,26 @@ The project is broken down into multiple steps:
 
 ### Data:
 
-The data used are a flower database, It is not provided in the repository as it's larger than what GitHub allows, but you can download it from the  
+The data used are a flower database, It is not provided in the repository as it's larger than what GitHub allows, but you can download it from Image Classifier Project.ipynb.   
 The data is divided into 3 folders:
 
 - test
 - train
 - validate
+
+### Software and Libraries:
+
+- Python
+- torch
+- torchvision
+- collections
+- PIL 
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- As this project uses deep learning, for training of network you need to use a GPU.
+
+### Instructions:
+
+
